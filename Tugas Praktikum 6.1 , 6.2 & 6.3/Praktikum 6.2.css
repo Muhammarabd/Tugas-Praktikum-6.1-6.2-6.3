@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+}
+.container2 {
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+width: 13%;
+height: 630px;
+background-color: burlywood;
+}
+
+header {
+    width: 180vh;
+    height: 115px;
+    background-color: khaki;
+}
+
+.boxdlm {
+    display: flex;
+}
+
+article {
+    width: 130vh;
+    height: 400px;
+    background-color: whitesmoke;
+}
+
+aside {
+    width: 50vh;
+    height: 400px;
+    background-color: brown;
+}
+
+footer {
+    width: 180vh;
+    height: 115px;
+    background-color:khaki;
+}
